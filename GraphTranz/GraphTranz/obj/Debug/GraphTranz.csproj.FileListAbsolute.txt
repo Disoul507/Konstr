@@ -1,0 +1,10 @@
+D:\учёба\Konstr\GraphTranz\GraphTranz\bin\Debug\GraphTranz.exe.config
+D:\учёба\Konstr\GraphTranz\GraphTranz\bin\Debug\GraphTranz.exe
+D:\учёба\Konstr\GraphTranz\GraphTranz\bin\Debug\GraphTranz.pdb
+D:\учёба\Konstr\GraphTranz\GraphTranz\obj\Debug\GraphTranz.csprojAssemblyReference.cache
+D:\учёба\Konstr\GraphTranz\GraphTranz\obj\Debug\GraphTranz.Form1.resources
+D:\учёба\Konstr\GraphTranz\GraphTranz\obj\Debug\GraphTranz.Properties.Resources.resources
+D:\учёба\Konstr\GraphTranz\GraphTranz\obj\Debug\GraphTranz.csproj.GenerateResource.cache
+D:\учёба\Konstr\GraphTranz\GraphTranz\obj\Debug\GraphTranz.csproj.CoreCompileInputs.cache
+D:\учёба\Konstr\GraphTranz\GraphTranz\obj\Debug\GraphTranz.exe
+D:\учёба\Konstr\GraphTranz\GraphTranz\obj\Debug\GraphTranz.pdb
